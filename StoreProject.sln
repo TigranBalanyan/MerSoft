@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreProject", "StoreProject\StoreProject.csproj", "{B4ACC84A-4B44-4C8A-B08D-95B52665D20E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreProject", "StoreProject\StoreProject.csproj", "{B4ACC84A-4B44-4C8A-B08D-95B52665D20E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreAppWPF", "StoreAppWPF\StoreAppWPF.csproj", "{00B6DC50-F5D1-4B82-B7CB-FB7A63D05485}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B4ACC84A-4B44-4C8A-B08D-95B52665D20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4ACC84A-4B44-4C8A-B08D-95B52665D20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4ACC84A-4B44-4C8A-B08D-95B52665D20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B6DC50-F5D1-4B82-B7CB-FB7A63D05485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B6DC50-F5D1-4B82-B7CB-FB7A63D05485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B6DC50-F5D1-4B82-B7CB-FB7A63D05485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B6DC50-F5D1-4B82-B7CB-FB7A63D05485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
